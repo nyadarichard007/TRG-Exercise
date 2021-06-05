@@ -16,6 +16,7 @@ namespace TRG_Exercise
                 
                 CheckWords(new WordHelper(), words);
 
+
                 Console.ReadLine();
             }
             catch (Exception ex)
